@@ -8,7 +8,7 @@ A bare minimal Flask python application that receives a text message and respond
 
 3. Install the dependencies 
 
-   `pip install twilio flask
+   `pip install twilio flask`
 
 4. Download [ngrok](https://ngrok.com/download) and run on the same port as the Python Flask instance.
 
