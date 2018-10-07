@@ -18,7 +18,7 @@ A bare minimal Flask python application that receives a text message and respond
 
    ![alt text](https://raw.githubusercontent.com/electrowizard/twilio_app/master/img/ngrok_image.png)
 
-5. Note down the ngrok URL generated after starting ngrok and update this URL after adding `\sms` route in the Twilio portal. 
+5. Note down the ngrok URL generated after starting ngrok and update this URL after adding `/sms` route in the Twilio portal. 
 
    - Go [here](https://www.twilio.com/console/phone-numbers/incoming) and select the number you have obtained from Twilio. 
    - In the Messaging tab, choose **Webhook** and add the URL, which should be something like `http://xxxxxxxx.ngrok.io/sms`
