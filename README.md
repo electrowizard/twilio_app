@@ -14,7 +14,7 @@ A bare minimal Flask python application that receives a text message and respond
 
     `./ngrok http 8888` 
 
-   The ngrok should return generate a URL
+   The ngrok should generate a URL
 
    ![alt text](https://raw.githubusercontent.com/electrowizard/twilio_app/master/img/ngrok_image.png)
 
